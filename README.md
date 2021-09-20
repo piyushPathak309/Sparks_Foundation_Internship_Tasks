@@ -1,6 +1,6 @@
 # Sparks_Foundation_Internship_Tasks
 
-# Exploratory Data Analysis of Reatail & Sales
+# Task 03 : Exploratory Data Analysis of Retail & Sales
 
 # About Task :
 ### The Business Manager wanted to find his weak Areas & Zone where he should work to make more Profit & Sales By Analyzing dataset and Creating Dashboard.
